@@ -1,4 +1,7 @@
-# Unity generated
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -61,9 +64,223 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#specific files
+\ADG_Textures
+\AllSkyFree
+\Conifers [BOTD]
+\Environment
+\GrassFlowers
+\HDRPDefaultResources
+\MyFIles\Environment
+\MyFIles\New Folder
+\Sprites
+
+# 3D Models
+*.blend
+*.obj
+*.fbx
+*.stl
+*.dae
+*.3ds
+*.max
+*.ma
+*.mb
+*.ply
+*.x3d
+*.x3db
+*.x3dv
+*.wrl
+*.ac
+*.gltf
+*.glb
+
+# Texture and Image Files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tiff
+*.bmp
+*.exr
+*.hdr
+
+# 3D Software-specific Files
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+*.blend6
+*.blend7
+*.blend8
+*.blend9
+*.swatches
+*.ska
+*.zpr
+*.mview
+*.c4d
+*.lxo
+*.lxp
+*.lxl
+*.c3d
+*.bip
+*.ztl
+*.zbp
+*.zbr
+*.zlt
+*.zmt
+*.zsc
+*.zcp
+*.zrp
+*.zbp
+*.zw
+*.zif
+*.zbf
+
+# Other 3D-related files
+*.mtl
+*.xsi
+*.vns
+*.abc
+*.geo
+*.igs
+*.iges
+*.step
+*.stp
+*.assimp
+*.ply2
+*.json
+*.arcore
+*.arproj
+*.armat
+*.assetinfo
+*.irr
+*.tgo
+*.skm
+*.sat
+*.asat
+*.dwg
+*.dxf
+*.objt
+*.skp
+*.3dm
+*.wings
+*.3dxml
+*.lwo
+*.lw
+*.lws
+*.cob
+*.scn
+*.daz
+*.daz3d
+*.pmd
+*.pmx
+*.bvh
+*.bclip
+*.bcs
+*.bca
+*.mcz
+*.vismat
+*.vray
+*.vrmat
+*.vmesh
+*.vfxb
+*.sim
+*.bip
+*.bvh
+*.character
+*.dc
+*.fpm
+*.amc
+*.ms3d
+*.car
+*.chrparams
+*.chr
+*.skp
+*.key
+
+# 3D Software Folders
+.vscode/
+.idea/
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# JPEG
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
+
+# JPEG 2000
+*.jp2
+*.j2k
+*.jpf
+*.jpx
+*.jpm
+*.mj2
+
+# JPEG XR
+*.jxr
+*.hdp
+*.wdp
+
+# Graphics Interchange Format
+*.gif
+
+# RAW
+*.raw
+
+# Web P
+*.webp
+
+# Portable Network Graphics
+*.png
+
+# Animated Portable Network Graphics
+*.apng
+
+# Multiple-image Network Graphics
+*.mng
+
+# Tagged Image File Format
+*.tiff
+*.tif
+
+# Scalable Vector Graphics
+*.svg
+*.svgz
+
+# Portable Document Format
+*.pdf
+
+# X BitMap
+*.xbm
+
+# BMP
+*.bmp
+*.dib
+
+# ICO
+*.ico
+
+# 3D Images
+*.3dm
+*.max
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+*.meta
