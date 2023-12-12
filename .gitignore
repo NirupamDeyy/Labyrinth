@@ -103,6 +103,7 @@ crashlytics-build.properties
 *.bmp
 *.exr
 *.hdr
+*.mat
 
 # 3D Software-specific Files
 *.blend1
